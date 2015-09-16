@@ -20,15 +20,7 @@
     "material-ui",
     "material ui"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/callemall/material-ui.git"
-  },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/callemall/material-ui/issues"
-  },
-  "homepage": "http://material-ui.com/",
   "dependencies": {
     "classnames": "^1.2.0",
     "react-draggable2": "^0.5.1"
